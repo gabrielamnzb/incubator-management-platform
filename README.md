@@ -215,7 +215,7 @@ Projeto desenvolvido no curso de **Bacharelado em Engenharia de Software** da **
 
 # 🙏 Agradecimentos
 
-Agradecemos aos professores **Maicon Bernardino** e **Anielle Andrade**, aos monitores **Rafael Aleixo** e **Sidnei Junio**, e à equipe da **Incubadora Tecnológica PampaTec**, por disponibilizarem um problema real e acompanharem o desenvolvimento deste projeto.
+Agradecemos aos professores **Maicon Bernardino** e **Anielle Andrade**, aos monitores **Rafael Aleixo** e **Sidnei Junior**, e à equipe da **Incubadora Tecnológica PampaTec**, por disponibilizarem um problema real e acompanharem o desenvolvimento deste projeto.
 
 ---
 
