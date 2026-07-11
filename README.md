@@ -14,7 +14,7 @@ Estudo de Caso em Engenharia de Software para a Incubadora Tecnológica PampaTec
 
 Projeto selecionado como **vencedor da disciplina Resolução de Problemas I** do curso de **Bacharelado em Engenharia de Software da Universidade Federal do Pampa (UNIPAMPA)**.
 
-O projeto também está em processo de **Registro de Programa de Computador (RPC) junto ao Instituto Nacional da Propriedade Industrial (INPI)**.
+Projeto desenvolvido em equipe com Bruna R. Ferreira e Erik Bruckmann e em processo de **Registro de Programa de Computador (RPC) junto ao Instituto Nacional da Propriedade Industrial (INPI)**.
 
 ---
 
