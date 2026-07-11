@@ -8,9 +8,13 @@
 Software Engineering Case Study for the PampaTec Technology Incubator
 </p>
 
-> 🏆 **Award-Winning Academic Project:** Selected as the winning project in the *Problem Solving I* (Software Engineering) course at the Federal University of Pampa (UNIPAMPA).
->
-> 📄 **Software Registration:** Currently undergoing Software Registration (RPC) before the Brazilian National Institute of Industrial Property (INPI).
+🏆 **Award-Winning Academic Project**
+
+Selected as the winning project in the *Problem Solving I* (Software Engineering) course at the Federal University of Pampa (UNIPAMPA).
+
+📄 **Software Registration**
+
+Currently undergoing Software Registration (RPC) before the Brazilian National Institute of Industrial Property (INPI).
 
 ---
 
