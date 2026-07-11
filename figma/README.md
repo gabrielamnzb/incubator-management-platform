@@ -9,4 +9,4 @@ Os protótipos representam as interfaces dos diferentes perfis de usuário do si
 - Comissão Avaliadora
 - Professor/Pesquisador
 
-> O link público será disponibilizado após autorização para divulgação.
+[🔗 Protótipo no Figma](https://www.figma.com/design/vFNThnxWFQlyRkvVR75yim/Telas-PampaTec?node-id=0-1&t=KmH6SigFRZjvGQYy-1)
