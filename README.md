@@ -102,7 +102,7 @@ A plataforma foi projetada para:
 
 O projeto conta com um protótipo de alta fidelidade desenvolvido no Figma, representando os principais fluxos da plataforma.
 
-🔗 [Acessar protótipo no Figma](LINK_FIGMA)
+🔗 [Acessar protótipo no Figma](https://www.figma.com/design/vFNThnxWFQlyRkvVR75yim/Telas-PampaTec?node-id=0-1&p=f)
 
 Principais telas:
 
